@@ -53,3 +53,20 @@
         display:none;
     }
   }
+
+
+  /* Tablets and under */
+
+@media(max-width: 768px){
+    
+
+   
+    
+
+}
+
+
+/* Mobile */
+@media(max-width: 500px){
+    
+}

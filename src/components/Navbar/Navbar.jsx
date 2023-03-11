@@ -32,7 +32,7 @@ function Navbar() {
                 </ul>
             </div>
             <button className="button n-button">
-            <Link spy={true} to=' start' smooth={true}>
+            <Link spy={true} to='Start' smooth={true}>
                 Contact
             </Link>
             </button>

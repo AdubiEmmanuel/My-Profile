@@ -95,6 +95,7 @@
         flex-direction: column;
         height: 64rem;
         gap: 7rem;
+        padding:10px;
     }
     .i-right{
         transform:scale(0.8);

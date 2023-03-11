@@ -37,3 +37,21 @@
     left: 56%;
     filter:blur(72px);
 }
+
+ /* Tablets and under */
+
+ @media(max-width: 768px){
+    
+    .floatingdiv{
+        display:inline-block;
+    }
+   
+    
+
+}
+
+
+/* Mobile */
+@media(max-width: 500px){
+    
+}
